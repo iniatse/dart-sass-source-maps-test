@@ -1,0 +1,25 @@
+{
+  "name": "dart-sass-source-maps-test",
+  "version": "1.0.0",
+  "description": "Test dart-sass source maps\r Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node-sass-build": "node-sass \"src/sass/table.scss\" \"build/css/table.css\" --embed-sources --embed-source-map",
+		"dart-sass-build": "sass \"src/sass/table.scss\" \"build/css/table.css\" --embed-sources --embed-source-map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iniatse/dart-sass-source-maps-test.git"
+  },
+  "author": "Gernot Pokorny",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/iniatse/dart-sass-source-maps-test/issues"
+  },
+  "homepage": "https://github.com/iniatse/dart-sass-source-maps-test#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "sass": "^1.26.5"
+  }
+}
