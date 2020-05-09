@@ -1,12 +1,9 @@
 table td:nth-child(1) {
-  width: 200px;
-}
+  width: 200px; }
 
 table {
-  border: 3px solid #013;
-}
-table th, table td {
-  border: 1px solid #013;
-}
+  border: 3px solid #013; }
+  table th, table td {
+    border: 1px solid #013; }
 
-/*# sourceMappingURL=data:application/json;charset=utf-8,%7B%22version%22:3,%22sourceRoot%22:%22%22,%22sources%22:%5B%22../../src/sass/partials/_test.scss%22,%22../../src/sass/table.scss%22%5D,%22names%22:%5B%5D,%22mappings%22:%22AAAA;EACE;;;ACAF;EACC;;AACA;EACC%22,%22file%22:%22table.css%22,%22sourcesContent%22:%5B%22table%20td:nth-child(1)%20%7B%5Cr%5Cn%20%20width:%20200px;%5Cr%5Cn%7D%22,%22@import%20'partials/test';%5Cr%5Cntable%20%7B%5Cr%5Cn%5Ctborder:%203px%20solid%20%23013;%5Cr%5Cn%5Ctth,%20td%20%7B%5Cr%5Cn%5Ct%5Ctborder:%201px%20solid%20%23013;%5Cr%5Cn%5Ct%7D%5Cr%5Cn%7D%22%5D%7D */
+/*# sourceMappingURL=data:application/json;base64,ewoJInZlcnNpb24iOiAzLAoJImZpbGUiOiAiYnVpbGQvY3NzL3RhYmxlLmNzcyIsCgkic291cmNlcyI6IFsKCQkic3JjL3Nhc3MvdGFibGUuc2NzcyIsCgkJInNyYy9zYXNzL3BhcnRpYWxzL190ZXN0LnNjc3MiCgldLAoJInNvdXJjZXNDb250ZW50IjogWwoJCSJAaW1wb3J0ICdwYXJ0aWFscy90ZXN0JztcclxudGFibGUge1xyXG5cdGJvcmRlcjogM3B4IHNvbGlkICMwMTM7XHJcblx0dGgsIHRkIHtcclxuXHRcdGJvcmRlcjogMXB4IHNvbGlkICMwMTM7XHJcblx0fVxyXG59IiwKCQkidGFibGUgdGQ6bnRoLWNoaWxkKDEpIHtcclxuICB3aWR0aDogMjAwcHg7XHJcbn0iCgldLAoJIm5hbWVzIjogW10sCgkibWFwcGluZ3MiOiAiQUNBQSxBQUFBLEtBQUssQ0FBQyxFQUFFLEFBQUEsVUFBVyxDQUFBLENBQUMsRUFBRTtFQUNwQixLQUFLLEVBQUUsS0FBSyxHQUNiOztBRERELEFBQUEsS0FBSyxDQUFDO0VBQ0wsTUFBTSxFQUFFLGNBQWMsR0FJdEI7RUFMRCxBQUVDLEtBRkksQ0FFSixFQUFFLEVBRkgsS0FBSyxDQUVBLEVBQUUsQ0FBQztJQUNOLE1BQU0sRUFBRSxjQUFjLEdBQ3RCIgp9 */

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "node-sass-build": "node-sass \"src/sass/table.scss\" \"build/css/table.css\" --embed-sources --embed-source-map",
+		"node-sass-build": "node-sass \"src/sass/table.scss\" \"build/css/table.css\" --sourceMapEmbed --sourceMapContents",
 		"dart-sass-build": "sass \"src/sass/table.scss\" \"build/css/table.css\" --embed-sources --embed-source-map"
   },
   "repository": {
