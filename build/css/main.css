@@ -1,0 +1,12 @@
+table td:nth-child(1) {
+  width: 200px;
+}
+
+table {
+  border: 3px solid #013;
+}
+table th, table td {
+  border: 1px solid #013;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8,%7B%22version%22:3,%22sourceRoot%22:%22%22,%22sources%22:%5B%22../../src/sass/_foo.scss%22,%22../../src/sass/main.scss%22%5D,%22names%22:%5B%5D,%22mappings%22:%22AAAA;EACE;;;ACAF;EACC;;AACA;EACC%22,%22file%22:%22main.css%22,%22sourcesContent%22:%5B%22table%20td:nth-child(1)%20%7B%5Cr%5Cn%20%20width:%20200px;%5Cr%5Cn%7D%22,%22@import%20'foo';%5Cr%5Cntable%20%7B%5Cr%5Cn%5Ctborder:%203px%20solid%20%23013;%5Cr%5Cn%5Ctth,%20td%20%7B%5Cr%5Cn%5Ct%5Ctborder:%201px%20solid%20%23013;%5Cr%5Cn%5Ct%7D%5Cr%5Cn%7D%22%5D%7D */
